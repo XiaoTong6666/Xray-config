@@ -1,5 +1,5 @@
 # Xray-config
-xray server config backup
+快速搭建
 ```
 sudo git clone https://github.com/xiaotong6666/xray-config/ && cd xray-config && sudo chmod 777 ./* && sudo ./xray
 ```
