@@ -7,7 +7,7 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "这是VLESS梯子"
+                        "id": "这里填UUID"
                     }
                 ],
                 "decryption": "none"
